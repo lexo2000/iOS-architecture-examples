@@ -11,7 +11,7 @@ import UIKit
 struct Configs {
     
     struct App {
-        static var myApiKey = "bcea494556c8601713e4a88fae8fe324"
+        static var myApiKey = "" // insert API key here
     }
     
     struct Network {
